@@ -1,0 +1,89 @@
+div.card{
+	display: block;
+	height: 78px;
+}
+
+div.arrow{
+	display: inline-block;
+	position:relative;
+	overflow:visible;
+	vertical-align: middle;
+	height: 78px;
+}
+
+div.icon{
+	display: inline-block;
+	position:relative;
+	overflow:visible;
+	vertical-align: middle;
+	height: 78px;
+}
+
+div.name{
+	display: inline;
+	position:relative;
+	overflow:visible;
+	vertical-align: top;
+	height: 78px;
+	margin: 0px 40px 0px 0px;
+}
+
+div.dungeon{
+	display: inline;
+	position:relative;
+	overflow:visible;
+	vertical-align: middle;
+	height: 78px;
+}
+
+table{
+	display: inline;
+	vertical-align: 12px;
+	height: 78px;
+}
+
+span.main{
+	font-size: 24px;
+	text-shadow: 2px 2px #434343;
+	color: #ffffff;
+	display: inline;
+	font: 'verdana', 'arial', sans-serif;
+	font-weight: bold;
+}
+
+span.sub{
+	font-size: 20px;
+	text-shadow: 2px 2px #434343;
+	color: #dfc674;
+	display: inline;
+	margin: 0px 10px 0px 10px;
+	font: 'verdana', 'arial', sans-serif;
+}
+
+span.alt{
+	font-size: 20px;
+	text-shadow: 2px 2px #434343;
+	color: #7babdc;
+	display: inline;
+	margin: 0px 10px 0px 10px;
+	font: 'verdana', 'arial', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	olor: #ffffff;
+	display: inline;
+}
+
+img{
+	height:100%;
+}
+
+img.mat{
+	height:35%;
+}
+
+input.box{
+	height:21px;
+	width:21px;
+}
